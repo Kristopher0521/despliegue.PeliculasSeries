@@ -151,7 +151,24 @@ h3{
 /* Responsive */
 
 @media (max-width: 1042px) {
-  .a1 {
-      display: block;
-  }
+    .a1 {
+        display: block;
+    }
+}
+
+@media (max-width: 1042px) {
+	.serie {
+		width: 85%;
+		margin: 20px;
+    		padding: 20px;
+		text-align: center;
+	}
+}
+
+@media (max-width: 1042px) {
+	.serie img {
+    		max-width: 90%;
+    		height: 60%;
+   		border-radius: 8px;
+	}
 }
