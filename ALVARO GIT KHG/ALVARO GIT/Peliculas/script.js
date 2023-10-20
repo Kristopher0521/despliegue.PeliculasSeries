@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
         title: "RUIDO DE FONDO",
         category: "Drama",
         imgSrc: "../Img/images (13).jpg",
-        descrip: "El profesor universitario Jack Gladney y su familia ven alterada su vida cuando una fuga de productos químicos provoca un "Evento Tóxico en el Aire", liberando una nociva nube negra sobre la región que obliga a la familia Gladney a evacuar.",
+        descrip: "El profesor universitario Jack Gladney y su familia ven alterada su vida cuando una fuga de productos químicos provoca un 'Evento Tóxico en el Aire', liberando una nociva nube negra sobre la región que obliga a la familia Gladney a evacuar.",
         trailerLink: "https://youtu.be/__ck2M2VfD4",
       },
       {
