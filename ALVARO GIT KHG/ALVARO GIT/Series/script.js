@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function () {
           seriesCard.innerHTML = `
             <img src="${result.imgSrc}" alt="${result.title}">
             <h2>${result.title}</h2>
-            <p>"${result.descrip}"</p>
+            <p>${result.descrip}</p>
             <p>Categoría: ${result.category}</p>
             <a class="ver-trailer" href="${result.trailerLink}" target="_blank">Ver Trailer</a>
           `;
