@@ -163,3 +163,11 @@ h3{
 		text-align: center;
 	}
 }
+
+@media (max-width: 1042px) {
+	.serie img {
+    		max-width: 90%;
+    		height: 60%;
+   		border-radius: 8px;
+	}
+}
