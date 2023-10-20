@@ -7,19 +7,19 @@ document.addEventListener("DOMContentLoaded", function () {
       {
         title: "DORA",
         category: "Drama",
-        imgSrc: "../img/images (3).jpg",
+        imgSrc: "../Img/images (3).jpg",
         trailerLink: "https://youtu.be/PCCuJbPz0Oo?si=r5IdhkKdXMidAUmN",
       },
       {
         title: "INTRIGA",
         category: "Drama",
-        imgSrc: "../img/images (4).jpg",
+        imgSrc: "../Img/images (4).jpg",
         trailerLink: "https://youtu.be/P99iQMCI32U?si=bKIQOMGccQEIsL9s",
       },
       {
         title: "SCREAM",
         category: "Drama",
-        imgSrc: "../img/images (5).jpg",
+        imgSrc: "../Img/images (5).jpg",
         trailerLink: "https://youtu.be/gUTtJjV852c",
       },
       {
