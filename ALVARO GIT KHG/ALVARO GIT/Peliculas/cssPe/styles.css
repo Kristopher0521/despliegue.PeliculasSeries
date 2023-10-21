@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background: #ff4500; /* Color de fondo del encabezado */
+  background: #B22222; /* Color de fondo del encabezado */
   text-align: center;
   padding: 20px;
 }
@@ -35,7 +35,7 @@ main {
   width: 30%;
   margin: 20px;
   padding: 20px;
-  background: #fff; /* Color de fondo del contenedor de la película */
+  background: #202020; /* Color de fondo del contenedor de la película */
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   text-align: center;
@@ -75,7 +75,7 @@ main {
 /* Estilos para la categoría de las películas (similares a los de las series) */
 .pelicula p {
   margin: 5px 0;
-  color: #777; /* Color de texto de la categoría */
+  color: #DFDFDF; /* Color de texto de la categoría */
 }
 
 /* Estilos para el botón "Ir a Series" en la página de películas (similares a los de las series) */
