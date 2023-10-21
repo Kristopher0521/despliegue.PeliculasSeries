@@ -54,7 +54,7 @@ main {
 
 .pelicula h2 {
   margin: 10px 0;
-  color: #333; /* Color de texto del título de la película */
+  color: #DFDFDF; /* Color de texto del título de la película */
 }
 
 /* Estilos para el botón Ver Trailer de las películas (similares a los de las series) */
