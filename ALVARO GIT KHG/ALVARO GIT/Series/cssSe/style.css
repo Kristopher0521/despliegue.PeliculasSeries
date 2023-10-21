@@ -167,7 +167,7 @@ h3{
 @media (max-width: 1042px) {
 	.serie img {
     		max-width: 90%;
-    		height: auto;
+    		height: 50%;
    		border-radius: 8px;
 	}
 }
