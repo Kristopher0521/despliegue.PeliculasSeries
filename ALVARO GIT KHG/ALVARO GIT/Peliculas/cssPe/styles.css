@@ -157,7 +157,7 @@ h3{
 }
 
 @media (max-width: 1042px) {
-	.serie {
+	.pelicula {
 		width: 85%;
 		height: 30%;
 		margin: 15px;
@@ -167,7 +167,7 @@ h3{
 }
 
 @media (max-width: 1042px) {
-	.serie img {
+	.pelicula img {
     		width: 90%;
     		height: 60%;
    		border-radius: 8px;
@@ -175,7 +175,7 @@ h3{
 }
 
 @media (max-width: 1042px) {
-	.serie p {
+	.pelicula p {
 		font-size: 15px;
 	}
 }
