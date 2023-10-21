@@ -158,8 +158,8 @@ h3{
 @media (max-width: 1042px) {
 	.serie {
 		width: 85%;
-		margin: 20px;
-    		padding: 20px;
+		margin: 15px;
+    		padding: 15px;
 		text-align: center;
 	}
 }
