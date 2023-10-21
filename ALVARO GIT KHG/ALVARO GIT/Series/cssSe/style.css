@@ -171,3 +171,9 @@ h3{
    		border-radius: 8px;
 	}
 }
+
+@media (max-width: 1042px) {
+	.serie p {
+		font-size: 20px;
+	}
+}
